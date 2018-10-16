@@ -14,7 +14,7 @@ end
    # 3) determine if composed of same letters by splitting word initialized into an array of letters
    # 3) cont.) using word.split("") then compare the two arrays using ==
    # 4) sort the elements in both arrays for comparison
-
+   end 
  end
 
 
